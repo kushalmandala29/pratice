@@ -1,0 +1,19 @@
+Data Collection and Preparation: pandas , maniculation by pandas
+
+Feature Engineering:Numpy, pandas(tools to handle complex data transformations)
+
+Algorithm Selection and Training:scikit-learn, tensorflow, pytouch(wide range of algorithms and models for different AI tasks).
+
+Model Evaluation:  Scikit-learn (provide various evaluation metrics to assess the performance of machine learning models easily)
+
+Integration with Other AI Techniques:  NLTK, spaCy(or working with pre-trained language models).
+
+Deployment and Integration: Flask and Django (integrate AI models into web applications, APIs, or other software using frameworks)
+
+Monitoring and Maintenance:  simplifies the process of monitoring and improving AI systems over time.
+
+Iterate and Improve: xperiment, modify, and improve AI implementations rapidly.
+
+
+AI PROJECTS link:
+https://www.edureka.co/blog/artificial-intelligence-project-ideas/#:~:text=Face%20filter%20using%20facial%20detection%3A%20This%20is%20a%20very%20interesting,%2C%20jawline%2C%20nose%20bridge%20etc.
